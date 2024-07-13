@@ -7,7 +7,7 @@ https://www.swisstransfer.com/d/ec9ce281-a09f-4f12-89a0-17de3929c577
 
 To watch the game(prototype) playing video, please use the link below:
 
-https://visionmede-my.sharepoint.com/:v:/g/personal/nuri_son_visionme_de/Ebym3rjG4wpHilvFGkpQwTcBvx3r2G9iPKz41LgvluE9Vw
+https://youtu.be/j_FkM4Xeq-Y?feature=shared
 
 The game's main menu uses the script from:
 
@@ -15,4 +15,4 @@ https://github.com/ValemVR/VR-Game-Jam-Template
 
 Thesis Text
 
-https://drive.google.com/file/d/1-CIcaMgvhonkTZBjjt6VptkYvBdfx0HB/view?usp=sharing
+https://nurison.github.io/portfolio_sonnuri/img/NuriSon_564654_HTWBerlin_BachelorThesis.pdf
